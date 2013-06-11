@@ -6,4 +6,6 @@ one managed object context with more than one store file
 (one of which could be synced to iCloud).
 
 The code snippet was missing from the Developer Library when I had a look today
-so I'm glad I found it con GitHub and forked it.
+so I'm glad I found it con GitHub and forked it from jab5990/TestCDiCloud (thanks!)
+
+Enjoy!
